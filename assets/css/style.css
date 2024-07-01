@@ -154,7 +154,7 @@ nav .navlinkB{
     align-items: center;
 }
 .parent-div:hover .divcd2 {
-    color: rgb(231, 187, 235);
+    color: rgb(231, 187, 220);
 }
 footer{
     display: flex;
@@ -176,7 +176,7 @@ footer{
         padding-top: 12px;
     }
     .hero{
-        padding: 0px 35px 100px 35px;
+        padding: 0px 20px 100px 20px;
     }
     .hero .div1 {
         margin-top: 42px;
@@ -222,13 +222,13 @@ footer{
         position: relative;
     }
     .section1 {
-        padding: 66px 35px 90px 35px;
+        padding: 66px 20px 90px 20px;
     }
     .section2{
-        padding: 70px 35px 70px 35px;
+        padding: 70px 20px 70px 20px;
     }
     .section2 h1{
-        font-size: 35px;
+        font-size: 20px;
     }
     .divcd2 {
         font-size: 15px;
@@ -247,7 +247,7 @@ footer{
         padding-top: 12px;
     }
     .hero{
-        padding: 0px 35px 100px 35px;
+        padding: 0px 20px 100px 20px;
     }
     .hero .div1 {
         margin-top: 42px;
@@ -296,13 +296,13 @@ footer{
         position: relative;
     }
     .section1 {
-        padding: 66px 35px 90px 35px;
+        padding: 66px 20px 90px 20px;
     }
     .section2{
-        padding: 70px 35px 70px 35px;
+        padding: 70px 20px 70px 20px;
     }
     .section2 h1{
-        font-size: 35px;
+        font-size: 20px;
     }
     .divcd2 {
         font-size: 15px;
